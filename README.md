@@ -1,2 +1,2 @@
 # blockchain
-blockchain implementation from go to python
+blockchain implementation in python
